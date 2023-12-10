@@ -1,0 +1,11 @@
+.listHeader{
+    background-color: #333F54;
+    /* color:  #333F54; */
+    text-align: center;
+    /* padding: 5px 5px 0 5px; */
+    min-width: 350px;
+    max-width: 350px;
+    border-radius: 5px 5px 0 0;
+    height: 2.5rem;
+    border-bottom: 1px solid  #333F54;
+}

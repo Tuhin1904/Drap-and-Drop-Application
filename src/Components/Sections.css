@@ -1,0 +1,16 @@
+.todoContainer{
+    border-radius: 10px;
+    min-width: 350px;
+    max-width: 350px;
+    min-height: 480px;
+    /* overflow-y: scroll; */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    margin: 5px 10px;
+    transition: background-color .3s ease;
+    /* min-height: 100px; */
+    /* padding: 3px 10px; */
+    background-color: #c4c3c344;
+    padding-bottom: 12px;
+    border: 1px solid  #333F54;
+}
